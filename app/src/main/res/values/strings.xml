@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task521</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="registration">Registration</string>
+    <string name="emptyText">Поля логина и пароля не заполнены</string>
+    <string name="succesReg">Вы успешно зарегистрировались</string>
+    <string name="userUnknow">Юзер не найден</string>
+    <string name="wealcome">\"Добро пожаловать \"</string>
+    <string name="userUknowReg">Юзер не найден, зарегистрируйтесь</string>
+</resources>
